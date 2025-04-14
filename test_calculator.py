@@ -1,4 +1,4 @@
-https://github.com/Fernando-Colimon/lab10--PM---FC-/blob/main/test_calculator.py
+
 import unittest
 from calculator import *
 
