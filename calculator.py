@@ -1,4 +1,6 @@
-
+#https://github.com/Fernando-Colimon/lab10--PM---FC-.git
+#Partner 1: Preston Michaels
+#Partner 2: Fernando Colimon
 """
 calculator.py
 - Defines functions used to create a simple calculator
