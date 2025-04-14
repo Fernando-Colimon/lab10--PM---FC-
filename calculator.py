@@ -1,4 +1,4 @@
-https://github.com/Fernando-Colimon/lab10--PM---FC-/blob/main/calculator.py
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
